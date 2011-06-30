@@ -1,0 +1,5 @@
+http://eagain.net/articles/git-for-computer-scientists/
+http://pointbeing.net/weblog/2009/09/git-for-subversion-users.html
+http://git.or.cz/course/svn.html
+http://www.eecs.harvard.edu/~cduan/technical/git/
+http://progit.org/book/ch1-3.html
